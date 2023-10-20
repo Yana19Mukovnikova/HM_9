@@ -1,0 +1,15 @@
+D:\Материалы к курсу по програмированию\HM_9\Task1\bin\Debug\net6.0\Task1.exe
+D:\Материалы к курсу по програмированию\HM_9\Task1\bin\Debug\net6.0\Task1.deps.json
+D:\Материалы к курсу по програмированию\HM_9\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+D:\Материалы к курсу по програмированию\HM_9\Task1\bin\Debug\net6.0\Task1.dll
+D:\Материалы к курсу по програмированию\HM_9\Task1\bin\Debug\net6.0\Task1.pdb
+D:\Материалы к курсу по програмированию\HM_9\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+D:\Материалы к курсу по програмированию\HM_9\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Материалы к курсу по програмированию\HM_9\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+D:\Материалы к курсу по програмированию\HM_9\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+D:\Материалы к курсу по програмированию\HM_9\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+D:\Материалы к курсу по програмированию\HM_9\Task1\obj\Debug\net6.0\Task1.dll
+D:\Материалы к курсу по програмированию\HM_9\Task1\obj\Debug\net6.0\refint\Task1.dll
+D:\Материалы к курсу по програмированию\HM_9\Task1\obj\Debug\net6.0\Task1.pdb
+D:\Материалы к курсу по програмированию\HM_9\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+D:\Материалы к курсу по програмированию\HM_9\Task1\obj\Debug\net6.0\ref\Task1.dll
